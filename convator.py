@@ -7,4 +7,4 @@ second_currency=input("Enter second currency name: ")
 Exhange_rate=float(input("please enter the exhange rate: "))
 result=amount/Exhange_rate
 R=("%.2f"%(result))
-print(first_currency,"to",second_currency,"=",R,second_currency)
+print(first_currency,"to",second_currency,"=",R,second_currency)# thid line helps to print the result
